@@ -89,7 +89,7 @@ function renderApps() {
             <div class="app-card-content">
                 <h3 class="app-card-name">${escapeHtml(app.name)}</h3>
                 <p class="app-card-description">${escapeHtml(description)}</p>
-                <a href="${app.url}" target="_blank" class="app-card-link" onclick="event.stopPropagation()">アプリを見る →</a>
+                <a href="#" class="app-card-link" onclick="event.stopPropagation(); openModal(${index}); return false;">アプリを見る →</a>
             </div>
         `;
 
@@ -183,7 +183,14 @@ function updateModalInfo(index) {
 
     modalAppName.textContent = app.name;
     modalAppDescription.textContent = app.description;
-    modalAppUrl.href = app.url;
+    
+    // 「アプリを見る」ボタンを実際のURLではなく、詳細画面（現在のモーダル）に留まるように設定
+    modalAppUrl.href = '#';
+    modalAppUrl.onclick = (e) => {
+        e.preventDefault();
+        // 既に詳細画面（モーダル）にいるので、何もしない
+        return false;
+    };
 
     // PDFリンクを表示
     if (app.pdf && app.pdf.trim() !== '') {

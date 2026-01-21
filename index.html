@@ -36,7 +36,12 @@
         <div class="container">
             <section id="about" class="about-section">
                 <h2>授業について</h2>
-                <p>このWebページでは、授業「フィジカルコンピューティングB」の課題として制作された、ノーコードアプリ開発プラットフォーム「Glide」を使用したスマートフォンアプリの紹介をしています。</p>
+                <div class="about-images">
+                    <img src="images/MediApp_2.png" alt="Glideアプリのレイアウト画面 - 教員一覧の表示設定" class="about-image">
+                    <img src="images/MediApp_1.png" alt="Glideアプリのデータベース画面 - 教員情報の管理画面" class="about-image">
+                </div>
+                <p>このWebページでは、授業「フィジカルコンピューティングB」の課題として制作された、ノーコードアプリ開発プラットフォーム「Glide」を使用したスマートフォンアプリの紹介をしています。本授業では、<strong>データベース駆動型開発</strong>を中心とした開発手法を学びます。Glideでは、スプレッドシート形式のデータベースを構築し、そのデータに基づいてアプリの画面や機能を自動生成します。データの構造を設計し、適切に整理することで、効率的にアプリケーションを開発でき、データベースの設計がアプリの品質を左右するため、データモデリングの重要性を実践的に学びます。特に重要なのは、ユーザーのニーズを理解し、それをデータ構造とUIデザインに落とし込む思考プロセスです。<strong>アイディエーション</strong>の段階では、ブレインストーミングで自由にアイデアを発想し、機能を選別し優先順位をつけることで、ユーザビリティやアクセシビリティを考慮した設計を学びます。
+                </p>
             </section>
             <div id="apps-container" class="apps-grid">
                 <!-- アプリカードがここに動的に追加されます -->
@@ -61,8 +66,8 @@
                     <div class="app-info-description">
                         <p id="modal-app-description"></p>
                         <div class="app-info-actions">
-                            <a id="modal-app-url" href="#" target="_blank" class="btn-primary"><i
-                                    class="fas fa-external-link-alt"></i> アプリを見る</a>
+                            <a id="modal-app-url" href="#" class="btn-primary"><i
+                                    class="fas fa-info-circle"></i> 詳細を見る</a>
                             <a id="modal-pdf-link" href="#" target="_blank" class="btn-secondary"
                                 style="display: none;"><i class="fas fa-file-pdf"></i> PDFを見る</a>
                         </div>
