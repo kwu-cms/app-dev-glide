@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "name": "太田 結菜",
+    "email": "k1523012@konan-wu.ac.jp",
+    "url": "https://k1523012konan-wuacjp-3w2a.glide.page/",
+    "description": "このアプリは楽曲の作詞者、作曲者、編曲者から共通の楽曲を絞り込めたり、簡単なプロフィールがわかるアプリで、サブ機能としてブログ記事を紹介するものやコメント機能、またカレンダーに自分が聞いた曲を登録できる機能もあります。",
+    "presentationUrl": "",
+    "screenshot": "images/screenshots/app-1.png"
+  },
+  {
+    "id": "2",
+    "name": "尼子 葵",
+    "email": "k1523002@konan-wu.ac.jp",
+    "url": "https://stjhpaih.glide.page",
+    "description": "メディア表現学科のための就活アプリです。就活の基本的なところはもちろん、メディア表現学科のみなさんが興味を持ちそうな業界、会社を紹介しています。とにかく、多くの情報を集め、ボリューム感がでるように意識しました。また、リレーションを積極的に使用するようにしており、今開いているページから別のページに移動できるように工夫しました。",
+    "presentationUrl": "https://konanwu-my.sharepoint.com/personal/takawo_konan-wu_ac_jp/_layouts/15/Doc.aspx?sourcedoc=%7BB0B7F986-6D4E-40CD-893D-A11B1B8A3397%7D&file=%E5%B0%B1%E6%B4%BB%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E9%AD%85%E5%8A%9B_%E5%B0%BC%E5%AD%90%20%E8%91%B5.pptx&action=edit&mobileredirect=true",
+    "screenshot": "images/screenshots/app-2.png"
+  },
+  {
+    "id": "3",
+    "name": "谷 侑美",
+    "email": "k1523042@konan-wu.ac.jp",
+    "url": "https://movie-app-ce08.glide.page",
+    "description": "映画紹介アプリ。映画を見るにあたって、あらすじやジャンル、お気に入りの作品の登録、視聴した映画の感想を記録を一つのアプリで完結することができる。視覚的にコンパクトにしたかったので、感想を記入するところで、最初の数文字だけ表示できるようにした。感想は自分にしか見えないようにフィルターをかけたり、その感想を後で編集や削除できるようにした点を工夫しました。",
+    "presentationUrl": "https://konanwu-my.sharepoint.com/personal/takawo_konan-wu_ac_jp/_layouts/15/Doc.aspx?sourcedoc=%7B7E22561C-C16B-4404-8C2A-A9442E88F679%7D&file=1523042%20%E8%B0%B7%E4%BE%91%E7%BE%8E%E3%80%80%E6%98%A0%E7%94%BB%E7%B4%B9%E4%BB%8B%E3%82%A2%E3%83%97%E3%83%AA_%E8%B0%B7%20%E4%BE%91%E7%BE%8E.pptx&action=edit&mobileredirect=true",
+    "screenshot": "images/screenshots/app-3.png"
+  },
+  {
+    "id": "4",
+    "name": "松山 奈央",
+    "email": "k1523074@konan-wu.ac.jp",
+    "url": "https://s-app-thu1.glide.page",
+    "description": "推しのアニメグッズを簡単に見返せる管理アプリを制作しました。公式サイトでは探しにくい推しのグッズだけを自分で登録し、作品別や種類別に整理できます。欲しい情報にすぐアクセスでき、探す時間を減らし、見る・管理する楽しさを高めることで、推し活をより便利で楽しいものにすることを目的とした作品です。",
+    "presentationUrl": "https://konanwu-my.sharepoint.com/personal/takawo_konan-wu_ac_jp/_layouts/15/Doc.aspx?sourcedoc=%7B8169AD1E-D21B-49B8-BD78-CDFF29B3ADC4%7D&file=%E3%83%95%E3%82%A3%E3%82%B8%E3%82%AB%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0B%20%E7%99%BA%E8%A1%A8%E3%81%AE%E8%AA%AC%E6%98%8E_%E6%9D%BE%E5%B1%B1%20%E5%A5%88%E5%A4%AE.docx&action=default&mobileredirect=true",
+    "screenshot": "images/screenshots/app-4.png"
+  },
+  {
+    "id": "5",
+    "name": "成井 瑞貴",
+    "email": "k1523057@konan-wu.ac.jp",
+    "url": "https://travel-check-list.glide.page",
+    "description": "このアプリは旅行前に必要な確認事項を持ち物と行動の両方から整理できるチェックリストとして作りました。進捗や重要度が誰でも見てすぐわかるわかりやすいアプリを目指して、なるべくシンプルにすることを意識しました。",
+    "presentationUrl": "",
+    "screenshot": "images/screenshots/app-5.png"
+  },
+  {
+    "id": "6",
+    "name": "佐藤 愛菜",
+    "email": "k1523032@konan-wu.ac.jp",
+    "url": "https://wakuwaku-cooking.glide.page",
+    "description": "料理初心者を対象とした料理アプリです。『一人料理チャレンジ』、『お菓子作りチャレンジ』、『ヘルプ/料理知識』の3つの項目があります。低予算、簡単なレシピを対象としているので難しいものは今の所は入れない予定です。参考レシピのURLを張ってあるので、少し難しいものはそこから挑戦できるようになっています。",
+    "presentationUrl": "",
+    "screenshot": "images/screenshots/app-6.png"
+  },
+  {
+    "id": "7",
+    "name": "田中 万結",
+    "email": "",
+    "url": "https://yosomi-portfolio.glide.page",
+    "description": "私がこれまで制作した作品をまとめたポートフォリオサイトです。工夫てんは、カテゴリー名を「テトラポット」や「フェリー乗り場」など、名所の名前風にしてみたことです。「イラスト」や「二次創作」だけでは普通のポートフォリオと変わらない印象になってしまうため、遊び心を取り入れてみました。",
+    "presentationUrl": "",
+    "screenshot": "images/screenshots/app-7.png"
+  }
+]
