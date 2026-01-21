@@ -215,7 +215,7 @@ main {
 .app-card-phone-frame::before {
     content: '';
     position: absolute;
-    top: 12px;
+    top: 8px;
     left: 50%;
     transform: translateX(-50%);
     width: 70px;
@@ -421,7 +421,7 @@ main {
 .phone-frame::before {
     content: '';
     position: absolute;
-    top: 20px;
+    top: 12px;
     left: 50%;
     transform: translateX(-50%);
     width: 120px;
